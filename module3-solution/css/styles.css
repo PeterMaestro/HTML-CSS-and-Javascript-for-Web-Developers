@@ -40,45 +40,6 @@ section{
 	border: none;
 }
 
-.navbar-brand{
-	font-size: 2em;
-	border: 0px 0px 10px 10px;
-	color: #7AC5CD;
-}
-
-#header-nav{
-	border: 0px;
-	background-color: #DDA0DD;
-	color: #FFFFFF;
-}
-
-.navbar-header button.navbar-toggle{
-	clear: both;
-	margin-top: -30px;
-}
-
-.nav-header{
-	background-color: #FFFFFF;
-}
-
-.nav-brand{
-	color: #FFFFFF;
-	font-size: 1.5em;
-}
-
-#nav-list{
-	background-color: #CDCDC1;
-}
-
-hr{
-	border-color: #FFFFFF;
-}
-
-.item{
-	font-size: 1.25em;
-	color: white
-}
-
 #chicken{
 	font-family: "Yrsa", serif;
 	font-weight: bold;
@@ -131,4 +92,43 @@ hr{
 #sushi-div{
 	margin-top: 10px;
 	margin-bottom: 10px;
+}
+
+.navbar-brand{
+	font-size: 2em;
+	border: 0px 0px 10px 10px;
+	color: #7AC5CD;
+}
+
+#header-nav{
+	border: 0px;
+	background-color: #DDA0DD;
+	color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: -30px;
+}
+
+.nav-header{
+	background-color: #FFFFFF;
+}
+
+.nav-brand{
+	color: #FFFFFF;
+	font-size: 1.5em;
+}
+
+#nav-list{
+	background-color: #CDCDC1;
+}
+
+hr{
+	border-color: #FFFFFF;
+}
+
+.item{
+	font-size: 1.25em;
+	color: white
 }
